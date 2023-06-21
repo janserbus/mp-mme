@@ -18,11 +18,11 @@ Pokud se zvětší ohnisková vzdálenost (čímž dojde ke snížení zorného 
 
 ### Expoziční trojůhelník
 
-Větší clona menší expozice.
+Větší clonové číslo menší expoziční hodnota.
 
-Větší čas, větší expozice.
+Větší čas, větší expoziční hodnota.
 
-Větší ISO větší expozice.
+Větší ISO větší expoziční hodnota.
 
 Hodnoty ve fotoaparátu jsou nastaveny tak, že vždy pohybují expoziční hodnotou o 1EV
 
@@ -37,3 +37,5 @@ Expoziční hodnota je definována jako nulová při hodnotě času 1s a clonov�
 Tedy jinak řečeno +1 EV se rovná dvojnásobnému zvíčení světla.
 
 Pokud má scéna 5 EV a poté 9EV stoupla celková světelnost scény 8 krát.
+
+### Měření expozice

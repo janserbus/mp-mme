@@ -14,7 +14,7 @@ Kontrast posouvá barevnou škálu od střední šedé (127). Pokud zvíšíme k
 
 ## Dynamický rozsah DR
 
-Dynamický rozsah je měřen v EV (Exposure Value). Zvíšení o 1 EV znamená dvojnásobné navíšení množství světla. Tedy pokud je dynamický rozsah scény 10 EV znamená to že nejsvětleší bod je 1024 krát světlejší než nejtmavší.
+Dynamický rozsah je měřen v EV (Exposure Value).
 
 ### Dynamický rozsah scény
 
