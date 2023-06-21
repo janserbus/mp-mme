@@ -9,7 +9,7 @@
 - [ ] Perspektiva
 - [x] [Objektiv](/20_objektiv.md)
 - [ ] Kompozice ve fotografii
-- [ ] [Senzor CMOS](/22_senzor_cmos.md)
+- [x] [Senzor CMOS](/22_senzor_cmos.md)
 - [ ] Barevný model
 - [ ] Formáty grafických dat
 - [ ] Tisková příprava
